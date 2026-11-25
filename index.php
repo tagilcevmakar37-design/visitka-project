@@ -20,7 +20,7 @@ try {
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Сайт-визитка успешно работает!</h1>
+    <h1>Главная страница - Добро пожаловать!</h1>
     <p>База данных visitka_db подключена.</p>
     <p><img src="image.jpg" alt="Обложка книги" width="300"></p>
 </body>
