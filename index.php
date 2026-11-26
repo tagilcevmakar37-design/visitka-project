@@ -25,3 +25,4 @@ try {
     <p><img src="image.jpg" alt="Обложка книги" width="300"></p>
 </body>
 </html>
+<!-- Проверка pull -->
